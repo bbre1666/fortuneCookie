@@ -7,6 +7,7 @@ Imports System.Linq.Expressions
 'RCET0265
 'Fall 2023
 'Fortune Cookie
+'https://github.com/bbre1666/fortuneCookie.git
 
 Module Program
     Sub Main(args As String())
@@ -26,7 +27,7 @@ Module Program
                 'Console.WriteLine(1)
             ElseIf randomNumber = 2 Then
                 Console.WriteLine("Success is a journey, not a destination.")
-                'Console.WriteLine(2)
+                'Console.WriteLine(2)                      
             ElseIf randomNumber = 3 Then
                 Console.WriteLine("Take a chance, it may lead to something great.")
                 'Console.WriteLine(3)
